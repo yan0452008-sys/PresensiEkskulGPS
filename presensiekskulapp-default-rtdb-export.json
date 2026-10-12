@@ -1,0 +1,121 @@
+{
+  "presensi": {
+    "12539_20261012": "{\"nis\":\"12539\",\"nama\":\"Emi Windiyanti \",\"ekskul\":\"OSIS\",\"latitude\":-7.749855,\"longitude\":110.72370166666666,\"waktu\":\"10\\/12\\/2026 03:37:32 AM\"}"
+  },
+  "siswa": {
+    "12528": {
+      "Nama": "Nama Siswa"
+    },
+    "12529": {
+      "Nama": "Nama Siswa"
+    },
+    "12530": {
+      "Nama": "Nama Siswa"
+    },
+    "12531": {
+      "Nama": "Nama Siswa"
+    },
+    "12532": {
+      "Nama": "Nama Siswa"
+    },
+    "12533": {
+      "Nama": "Nama Siswa"
+    },
+    "12534": {
+      "Nama": "Nama Siswa"
+    },
+    "12535": {
+      "Nama": "Nama Siswa"
+    },
+    "12536": {
+      "Nama": "Nama Siswa"
+    },
+    "12537": {
+      "Nama": "Nama Siswa"
+    },
+    "12538": {
+      "Nama": "Nama Siswa"
+    },
+    "12539": {
+      "Nama": "Nama Siswa"
+    },
+    "12540": {
+      "Nama": "Nama Siswa"
+    },
+    "12541": {
+      "Nama": "Nama Siswa"
+    },
+    "12542": {
+      "Nama": "Nama Siswa"
+    },
+    "12543": {
+      "Nama": "Nama Siswa"
+    },
+    "12544": {
+      "Nama": "Nama Siswa"
+    },
+    "12545": {
+      "Nama": "Nama Siswa"
+    },
+    "12546": {
+      "Nama": "Nama Siswa"
+    },
+    "12547": {
+      "Nama": "Nama Siswa"
+    },
+    "12548": {
+      "Nama": "Nama Siswa"
+    },
+    "12549": {
+      "Nama": "Nama Siswa"
+    },
+    "12550": {
+      "Nama": "Nama Siswa"
+    },
+    "12551": {
+      "Nama": "Nama Siswa"
+    },
+    "12552": {
+      "Nama": "Nama Siswa"
+    },
+    "12553": {
+      "Nama": "Nama Siswa"
+    },
+    "12554": {
+      "Nama": "Nama Siswa"
+    },
+    "12555": {
+      "Nama": "Nama Siswa"
+    },
+    "12556": {
+      "Nama": "Nama Siswa"
+    },
+    "12557": {
+      "Nama": "Nama Siswa"
+    },
+    "12558": {
+      "Nama": "Nama Siswa"
+    },
+    "12559": {
+      "Nama": "Nama Siswa"
+    },
+    "12560": {
+      "Nama": "Nama Siswa"
+    },
+    "12561": {
+      "Nama": "Nama Siswa"
+    },
+    "12562": {
+      "Nama": "Nama Siswa"
+    },
+    "12563": {
+      "Nama": "Nama Siswa"
+    },
+    "12850": {
+      "Nama": "Nama Siswa"
+    }
+  },
+  "status_presensi": {
+    "12539_20261012_OSIS": "\"SUDAH\""
+  }
+}
